@@ -45,10 +45,10 @@ category: tech
 		this.myName = "Foo function.";
 	}
 	foo.prototype.sayHello = function(){
-        	self = this;   //将bar中的this的值存在变量self中，这样self所指向的对象就跟bar中的this一样了。
 		alert(this.myName);
 	}
 	foo.prototype.bar = function(){
+		self = this;   //将bar中的this的值存在变量self中，这样self所指向的对象就跟bar中的this一样了。
 		setTimeout(self.sayHello, 1000);
 	}
 	var f = new foo;

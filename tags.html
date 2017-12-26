@@ -1,8 +1,8 @@
 ---
-title: 资源
+title: Tags
 layout: default
-description: 是进行光合作用的原材料
-header-img: "img/resource-bg.png"
+description: keep hungry keep foolish
+header-img: "img/tag-bg.jpg"
 ---
 
 <!-- Page Header -->
@@ -23,6 +23,13 @@ header-img: "img/resource-bg.png"
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <!-- 标签云 -->
+			<div id='tag_cloud' class="tags">
+				{% for tag in site.tags %}
+				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+				{% endfor %}
+			</div>
+
             <!--<blockquote class="tag-comments">
                 标签命名规范：
                     <li>行业观察、职位、公司优先使用中文</li>
@@ -30,7 +37,7 @@ header-img: "img/resource-bg.png"
             </blockquote>-->
 
             <!-- 标签列表 -->
-			{% for tag in site.tags.资源 %}
+			{% for tag in site.tags %}
 			<div class="one-tag-list">
 			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
                     <span class="tag-text">{{ tag[0] }}</span>
@@ -49,7 +56,6 @@ header-img: "img/resource-bg.png"
 				        <h3 class="post-subtitle">
 				            {{ post.subtitle }}
 				        </h3>
-				   		<img src="../{{post.header-img}}" style="width: 100%">
 				        {% endif %}
 				    </a>
 				    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->

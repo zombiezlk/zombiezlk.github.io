@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "监狱的公主"
-subtitle:   "TBS 火曜ドラマ 監獄のお姫さま"
+subtitle:   "TBS 火曜ドラマ 　監獄のお姫さま"
 author:     "Kabayaki"
 header-img: "img/Kangoku-no-Ohimesama.jpg"
 tags:

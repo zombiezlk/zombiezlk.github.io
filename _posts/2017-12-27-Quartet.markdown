@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "四重奏"
-subtitle:   "TBS 火曜ドラマ カルテット"
+subtitle:   "TBS 火曜ドラマ 　カルテット"
 author:     "Kabayaki"
 header-img: "img/Quartet.jpg"
 tags:

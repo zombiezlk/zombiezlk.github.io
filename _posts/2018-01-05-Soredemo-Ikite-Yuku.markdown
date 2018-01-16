@@ -6,6 +6,7 @@ author:     "Kabayaki"
 header-img: "img/Soredemo-Ikite-Yuku.jpg"
 tags:
     - 资源
+    - 日剧
 ---
 
 ## 简介

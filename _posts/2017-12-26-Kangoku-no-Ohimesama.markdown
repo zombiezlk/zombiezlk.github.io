@@ -6,6 +6,7 @@ author:     "Kabayaki"
 header-img: "img/Kangoku-no-Ohimesama.jpg"
 tags:
     - 资源
+    - 日剧
 ---
 
 ## 简介

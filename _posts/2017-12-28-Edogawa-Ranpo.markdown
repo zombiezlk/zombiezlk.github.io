@@ -6,6 +6,8 @@ author:     "Kabayaki"
 header-img: "img/Edogawa-Ranpo.jpg"
 tags:
     - 资源
+    - 日剧
+    - SP
 ---
 
 ## 简介

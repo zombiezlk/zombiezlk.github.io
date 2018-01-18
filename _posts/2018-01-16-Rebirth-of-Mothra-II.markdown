@@ -21,4 +21,4 @@ tags:
 
 ## 资源地址
 
-* [Blue-ray](http://www.btapple.com/m_15826.html)
+* [Blu-ray 1080p](http://www.btapple.com/m_15826.html)

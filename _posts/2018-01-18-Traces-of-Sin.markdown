@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "愚行录"
-subtitle:   "KlockWorx  2016　　愚行録"
+subtitle:   "华纳  2017　　愚行録"
 author:     "Kabayaki"
 header-img: "img/Traces-of-Sin.jpg"
 tags:

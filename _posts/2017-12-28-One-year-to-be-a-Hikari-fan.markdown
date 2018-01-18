@@ -5,7 +5,7 @@ subtitle:   "年末多图"
 author:     "Kabayaki"
 header-img: "img/in-post/post-one-year-to-be-a-Hikari-fan/One-year-to-be-a-Hikari-fan (1).jpg"
 tags:
-    - 感想
+    - 投稿
 ---
 
 >[@八寺宵独夜](https://weibo.com/u/1739367913)原创始发于微博, 转载请注明出处，[原文链接](https://weibo.com/ttarticle/p/show?id=2309404189598665317385#_rnd1514439114134)

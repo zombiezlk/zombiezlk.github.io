@@ -3,7 +3,7 @@ layout:     post
 title:      "摩斯拉2 海底大决战"
 subtitle:   "东宝 1997　　モスラ2 海底の大決戦"
 author:     "Kabayaki"
-header-img: "img/Mosura-2-Kaitei-Kessan.jpg"
+header-img: "img/Rebirth-of-Mothra-II.jpg"
 tags:
     - 资源
     - 电影

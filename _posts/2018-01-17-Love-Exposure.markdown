@@ -21,4 +21,4 @@ tags:
 
 ## 资源地址
 
-* [Blue-ray](http://www.btapple.com/m_5812.html)
+* [Blu-ray](http://www.btapple.com/m_5812.html)

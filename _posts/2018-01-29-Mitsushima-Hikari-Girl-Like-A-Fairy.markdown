@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "满岛光：似‘精灵’般的存在"
-subtitle:   "某一刻你的光照亮了我。"
+subtitle:   "某一刻你的光照亮了我"
 author:     "Kabayaki"
 header-img: "img/in-post/post-Mitsushima-Hikari-Girl-Like-A-Fairy/Mitsushima-Hikari-Girl-Like-A-Fairy (1).jpg"
 tags:

@@ -27,4 +27,4 @@ tags:
 
 ## 资源地址
 
-* [Blu-ray 1080p](http://www.btapple.com/r_46247.html)
+* [Blu-ray 1080p](http://www.btpan.com/film/9611.html)

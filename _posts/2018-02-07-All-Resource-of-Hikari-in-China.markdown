@@ -3,7 +3,7 @@ layout:     post
 title:      "光妹全搜罗"
 subtitle:   "满岛光爱好者福利帖"
 author:     "Kabayaki"
-header-img: "img/All-Resource-of-Hikari-in-China.png"
+header-img: "img/All-Resource-of-Hikari.png"
 tags:
     - 满岛光
     - 网络资源
@@ -35,7 +35,7 @@ tags:
 
 #### [光的旋律%](http://music.163.com/#/radio/349949732?userid=44231045)
 
-这是一个很用心的同学做的一个网易云音乐的电台，博客里的[这一篇文章](http://hikari.news/2018/01/29/Mitsushima-Hikari-Girl-Like-A-Fairy/)就是他写，电台上面有很多影视剧片段或者舞台剧的声音片段收集，更新地很频繁，包括之前的广播还有一些歌唱片段也有，睡不着的同学可以听着这个入眠了。
+这是一个很用心的同学做的一个网易云音乐的电台，博客里的[这一篇文章](http://hikari.news/2018/01/29/Mitsushima-Hikari-Girl-Like-A-Fairy/)就是他写的，电台上面有很多影视剧片段或者舞台剧的声音片段收集，更新地很频繁，包括之前的广播还有一些歌唱片段也有，睡不着的同学可以听着这个入眠了。
 
 #### [@满岛文乃 ](https://space.bilibili.com/5160574/#/)
 

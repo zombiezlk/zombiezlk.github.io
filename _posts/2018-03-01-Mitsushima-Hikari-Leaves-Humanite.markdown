@@ -9,7 +9,7 @@ tags:
     - 速报
 ---
 
-今天Humanite事务所发布了一篇告知 --> [満島ひかりについてのお知らせ](http://www.humanite.co.jp/aboutmitsushimahikari.html),表明光妹将和事务所解约，原文如下
+今天Humanite事务所发布了一篇告知 --> [満島ひかりについてのお知らせ](http://www.humanite.co.jp/aboutmitsushimahikari.html),表明光妹将和事务所解约，原文如下，翻译的版本请看[@迷光字幕组的微博](https://m.weibo.cn/6286361419/4212785191752419)。
 
 ![]({{ site.baseurl }}/img/in-post/post-Mitsushima-Hikari-Leaves-Humanite/Mitsushima-Hikari-Leaves-Humanite (2).png)
 

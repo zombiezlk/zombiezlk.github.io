@@ -2,7 +2,7 @@
 layout:     post
 title:      "监狱的公主"
 subtitle:   "TBS 火曜ドラマ 　監獄のお姫さま"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Kangoku-no-Ohimesama.jpg"
 tags:
     - 资源

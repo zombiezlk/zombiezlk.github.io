@@ -2,7 +2,7 @@
 layout:     post
 title:      "回顾当满岛光野粉的一年心路历程"
 subtitle:   "年末多图"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/in-post/post-one-year-to-be-a-Hikari-fan/One-year-to-be-a-Hikari-fan (1).jpg"
 tags:
     - 投稿

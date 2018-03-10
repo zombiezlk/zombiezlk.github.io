@@ -2,7 +2,7 @@
 layout:     post
 title:      "碎片"
 subtitle:   "pictures dept. 2010　　カケラ"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/A-Piece-of-Our-Life.jpg"
 tags:
     - 资源

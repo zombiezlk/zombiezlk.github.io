@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello！纯一"
 subtitle:   "T-Joy  2014　　ハロー！純一"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Hello-Junichi.jpg"
 tags:
     - 资源

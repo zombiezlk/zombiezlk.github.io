@@ -2,7 +2,7 @@
 layout:     post
 title:      "开拓者们"
 subtitle:   "NHK BS Premium 　開拓者たち"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Kaitakeshatachi.jpg"
 tags:
     - 资源

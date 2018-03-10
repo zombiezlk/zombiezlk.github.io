@@ -2,7 +2,7 @@
 layout:     post
 title:      "一命"
 subtitle:   "松竹  2011　 一命"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Hara-Kiri-Death-of-A-Samurai.jpg"
 tags:
     - 资源

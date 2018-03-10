@@ -2,7 +2,7 @@
 layout:     post
 title:      "死亡笔记"
 subtitle:   "华纳 2006　　デスノート"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Death-Note.jpg"
 tags:
     - 资源

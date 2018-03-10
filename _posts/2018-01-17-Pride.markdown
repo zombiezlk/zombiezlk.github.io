@@ -2,7 +2,7 @@
 layout:     post
 title:      "迈向荣耀之路"
 subtitle:   "GAGA CORPORATION 2009　　プライド"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Pride.jpg"
 tags:
     - 资源

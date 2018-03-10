@@ -2,7 +2,7 @@
 layout:     post
 title:      "北方的金丝雀"
 subtitle:   "东映  2012　　北のカナリアたち"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/A-Chorus-of-Angels.jpg"
 tags:
     - 资源

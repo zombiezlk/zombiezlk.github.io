@@ -2,7 +2,7 @@
 layout:     post
 title:      "光妹全搜罗"
 subtitle:   "满岛光爱好者福利帖"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/All-Resource-of-Hikari.png"
 tags:
     - 满岛光

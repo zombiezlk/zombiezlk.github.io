@@ -2,7 +2,7 @@
 layout:     post
 title:      "满岛光与原事务所Humanite解约"
 subtitle:   "速报一则"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/portfolio-avatar.jpg"
 tags:
     - 满岛光

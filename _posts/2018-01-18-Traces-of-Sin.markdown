@@ -2,7 +2,7 @@
 layout:     post
 title:      "愚行录"
 subtitle:   "华纳  2017　　愚行録"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Traces-of-Sin.jpg"
 tags:
     - 资源

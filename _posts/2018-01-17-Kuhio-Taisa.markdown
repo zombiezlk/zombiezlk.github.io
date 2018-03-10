@@ -2,7 +2,7 @@
 layout:     post
 title:      "结婚欺诈师"
 subtitle:   "Showgate 2009　　クヒオ大佐"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Kuhio-Taisa.jpg"
 tags:
     - 资源

@@ -2,7 +2,7 @@
 layout:     post
 title:      "投靠女与出走男"
 subtitle:   "松竹  2015　　駆込み女と駆出し男"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Kakekomi-Onna-to-Kakedashi-Otoko.jpg"
 tags:
     - 资源

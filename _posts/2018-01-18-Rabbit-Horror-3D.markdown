@@ -2,7 +2,7 @@
 layout:     post
 title:      "恐怖兔子3D"
 subtitle:   "Phantom Film  2011　 ラビット・ホラー3D"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Rabbit-Horror-3D.jpg"
 tags:
     - 资源

@@ -2,7 +2,7 @@
 layout:     post
 title:      "江户川乱步短篇集Ⅰ，Ⅱ"
 subtitle:   "NHK BS Premium 　シリーズ江戸川乱歩短編集Ⅰ，Ⅱ"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Edogawa-Ranpo.jpg"
 tags:
     - 资源

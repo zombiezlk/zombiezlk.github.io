@@ -2,7 +2,7 @@
 layout:     post
 title:      "走私者"
 subtitle:   "华纳  2011　　スマグラー　おまえの未来を運べ"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Smuggler.jpg"
 tags:
     - 资源

@@ -2,7 +2,7 @@
 layout:     post
 title:      "年轻人们2014"
 subtitle:   "Fuji TV 水曜ドラマ　　若者たち2014"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Wakamonotachi-2014.jpg"
 tags:
     - 资源

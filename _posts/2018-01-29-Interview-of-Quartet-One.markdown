@@ -2,7 +2,7 @@
 layout:     post
 title:      "《四重奏》官网专访"
 subtitle:   "第一回"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/in-post/post-Interview-of-Quartet/Interview-of-Quartet.jpg"
 tags:
     - 采访

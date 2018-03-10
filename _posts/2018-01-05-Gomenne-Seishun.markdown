@@ -2,7 +2,7 @@
 layout:     post
 title:      "对不起青春"
 subtitle:   "TBS 日曜劇場 　ごめんね青春！"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Gomenne-Seishun.jpg"
 tags:
     - 资源

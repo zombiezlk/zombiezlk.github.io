@@ -2,7 +2,7 @@
 layout:     post
 title:      "豆豆电视台"
 subtitle:   "NHK 土曜ドラマ 　トットてれび"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Totto-Terebi.jpg"
 tags:
     - 资源

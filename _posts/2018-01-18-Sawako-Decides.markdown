@@ -2,7 +2,7 @@
 layout:     post
 title:      "从河底问好"
 subtitle:   "EUROSPACE，PIA  2010　　川の底からこんにちは"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Sawako-Decides.jpg"
 tags:
     - 资源

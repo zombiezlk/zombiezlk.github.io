@@ -2,7 +2,7 @@
 layout:     post
 title:      "死亡笔记：最后的名字"
 subtitle:   "华纳 2006　　デスノート the Last name"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Death-Note-The-Last-Name.jpg"
 tags:
     - 资源

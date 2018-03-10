@@ -2,7 +2,7 @@
 layout:     post
 title:      "尽管如此也要活下去"
 subtitle:   "Fuji TV 木曜劇場 　それでも、生きてゆく"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Soredemo-Ikite-Yuku.jpg"
 tags:
     - 资源

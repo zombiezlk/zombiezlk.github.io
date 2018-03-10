@@ -2,7 +2,7 @@
 layout:     post
 title:      "爱的曝光"
 subtitle:   "Phantom Film 2009　　愛のむきだし"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Love-Exposure.jpg"
 tags:
     - 资源

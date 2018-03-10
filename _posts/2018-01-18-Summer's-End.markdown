@@ -2,7 +2,7 @@
 layout:     post
 title:      "夏之终结"
 subtitle:   "KlockWorx  2013　　夏の終り"
-author:     "Kabayaki"
+author:     "三岛鳗鱼"
 header-img: "img/Summers-End.jpg"
 tags:
     - 资源

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "光妹全搜罗"
-subtitle:   "满岛光爱好者福利帖"
+subtitle:   "满岛光粉丝福利帖"
 author:     "三岛鳗鱼"
 header-img: "img/All-Resource-of-Hikari.png"
 tags:

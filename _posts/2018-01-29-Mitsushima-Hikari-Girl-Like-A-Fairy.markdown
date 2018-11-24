@@ -5,7 +5,7 @@ subtitle:   "某一刻你的光照亮了我"
 author:     "三岛鳗鱼"
 header-img: "img/in-post/post-Mitsushima-Hikari-Girl-Like-A-Fairy/Mitsushima-Hikari-Girl-Like-A-Fairy (1).jpg"
 tags:
-    - 投稿
+    - 短文
 ---
 
 >[@Meteor201](https://weibo.com/p/1005052597619777)原创始发于微博, 转载请注明出处，[原文链接](https://weibo.com/ttarticle/p/show?id=2309404200924754099531)

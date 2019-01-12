@@ -34,5 +34,4 @@ tags:
 
 三角字幕组[Ⅰ](http://pssclub.com/forum.php?mod=viewthread&tid=15472)[Ⅱ](http://pssclub.com/forum.php?mod=viewthread&tid=17016)
 
-百度云日字 密码:7yy5 [Ⅲ](http://t.cn/Ebsfnfl)
-
+弯弯字幕组 密码:5hz5  [Ⅲ](https://pan.baidu.com/s/1FwQWQtR_C67clS8ispbFOw )

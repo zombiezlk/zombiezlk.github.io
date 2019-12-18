@@ -65,7 +65,7 @@ ga_domain: hikari.news
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "満島ひかりです、俳優おやでおります、女です、33歳です。"
+sidebar-about-description: "満島ひかりです、俳優おやでおります、女です、34歳です。"
 sidebar-avatar: /img/avatar-hikari.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
